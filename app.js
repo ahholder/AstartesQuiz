@@ -1138,7 +1138,7 @@ function quizAnswerInfo(id, answ) {
     res = [[4], [8, 15, 16, 17], [2, 3], [9, 12]];
     qs = quizCompileAnswer(txt, res, univWt, qs);
 
-    txt = ["Sharing Life Advice", "Practicing Traditions", "Playing Boardgames", "Using Them as a Standard for Improvement"];
+    txt = ["Sharing Life Advice", "Practicing Traditions", "Playing Boardgames", "Stopping them from Embarassing You"];
     res = [[18], [4, 16, 17], [5], [0, 9]];
     qs = quizCompileAnswer(txt, res, univWt, qs);
 
